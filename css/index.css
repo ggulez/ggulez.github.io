@@ -1,14 +1,14 @@
 body {
-  font-family: "Gill Sans";
+  font-family: "verdana";
   background-color: #f5daf0;
   text-align: center;
 }
 
 a {
   text-decoration: none;
-  color: hotpink;
-  background-color: lavender;
-  padding: 10px;
+  color: ghostwhite;
+  background-color: darkred;
+  padding: 20px;
   border-radius: 25px;
-  margin: 20px;
+  margin: 130px;
 }
